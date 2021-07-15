@@ -1,0 +1,20 @@
+{
+  "name": "svc-policies",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "exit 0"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Nathan Leyland",
+    "email": "nathan.leyland@iag.co.nz"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
